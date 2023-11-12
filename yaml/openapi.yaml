@@ -8,29 +8,29 @@ info:
     email: farhanriziq01@gmail.com
   license:
     name: GCF Package
-    url: https://pkg.go.dev/github.com/GIS-RIZIQ/gisbackend
+    url: https://pkg.go.dev/github.com/GIS-RIZIQ/backendgcf
   version: 1.0.11
 externalDocs:
   description: Swagger
-  url: https://gis-geos.github.io/swagger/
+  url: https://gis-riziq.github.io/swagger/
 servers:
-  - url: https://us-central1-gcpospasial.cloudfunctions.net
+  - url: https://us-central1-gcpgeospacial.cloudfunctions.net/gis
 tags:
   - name: auth
     description: Authentikasi
     externalDocs:
       description: Deskripsi dan Kode Program
-      url: https://github.com/gis-geos/gcf
+      url: https://github.com/GIS-RIZIQ/backendgcf
   - name: register
     description: Register Account
     externalDocs:
       description: Deskripsi dan Kode Program
-      url: https://github.com/gis-geos/gcf
+      url: https://github.com/GIS-RIZIQ/backendgcf
   - name: data
     description: Data Untuk akses GIS
     externalDocs:
       description: Deskripsi dan Kode Program
-      url: https://github.com/gis-geos/gcf
+      url: https://github.com/GIS-RIZIQ/backendgcf
 paths:
   /RegisterGis:
     post:
