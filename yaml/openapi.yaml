@@ -3,12 +3,12 @@ info:
   title: Dokumen API Cloud Function GIS- OpenAPI 3.0
   description: >-
     Dokumentasi API untuk Matakuliah GIS
-  termsOfService: https://github.com/gis-geos
+  termsOfService: https://github.com/GIS-RIZIQ
   contact:
-    email: imyharis@gmail.com
+    email: farhanriziq01@gmail.com
   license:
     name: GCF Package
-    url: https://pkg.go.dev/github.com/gis-geos/gcf
+    url: https://pkg.go.dev/github.com/GIS-RIZIQ/gisbackend
   version: 1.0.11
 externalDocs:
   description: Swagger
