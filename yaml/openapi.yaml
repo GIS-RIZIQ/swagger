@@ -32,7 +32,7 @@ tags:
       description: Deskripsi dan Kode Program
       url: https://github.com/GIS-RIZIQ/backendgcf
 paths:
-  /RegisterGis:
+  /registergis:
     post:
       tags:
         - register
