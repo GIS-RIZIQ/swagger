@@ -100,7 +100,7 @@ paths:
           - write:apiKey
           - read:apiKey
 
-  /GetAllGeo:
+  /geojsonriziq:
     get:
       tags:
         - data
