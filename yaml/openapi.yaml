@@ -74,7 +74,7 @@ paths:
                 $ref: '#/components/schemas/AuthResponse'
         '405':
           description: Invalid input
-  /updategis:
+  /updategeo:
     put:
       tags:
         - data
@@ -100,7 +100,7 @@ paths:
           - write:apiKey
           - read:apiKey
 
-  /geojsonriziq:
+  /getallgeojson:
     get:
       tags:
         - data
